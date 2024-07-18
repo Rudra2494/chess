@@ -42,7 +42,7 @@ To run the chess game locally:
 
 - **`Chess.html`**: Entry point of the game.
 - **`Design.Css`**: Contains stylesheets for the game interface.
-- **`Moves and rules.js**: Contains JavaScript files for game logic and behavior.
+- **`Moves and rules.js`**: Contains JavaScript files for game logic and behavior.
 
 ## Acknowledgments
 
