@@ -28,7 +28,7 @@ To run the chess game locally:
 3. **NOTE**- To open the last AI version you need to run the code and for it to run it the steps are as follows:
    - Open the folder step 9 AI used.
    - Press **Windows logo key** and type in **CMD** in there and press enter.
-   - Now type in the code **Python flask_app.py** in there. **Note** do not copy paste it.
+   - Now type in the code **Python flask_app.py** in there. **Note:** do not copy paste it.
    - Now open **Mozilla firefox browser** as it would not work on any other one like chrome as error 1002 will be showed.
    - Now paste this below Url in the search box and press enter.
    - **Url is:** http://127.0.0.1:5000.
@@ -48,3 +48,7 @@ To run the chess game locally:
 
 - Inspired by the classic game of chess.
 - Built as part of learning JavaScript and game development.
+
+## Feel free to download the .zip file, extracting it and playing it and you an also see the source codes from the files
+
+## THANK YOU
